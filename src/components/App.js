@@ -12,7 +12,7 @@ function App() {
             Movies
           </div>
           <div className="tab">
-            Favourites
+            FAVOURITE
           </div>
         </div>
         <div className="list">
